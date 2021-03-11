@@ -145,7 +145,7 @@ div {
 
 /*Eigen opdracht nummer 3*/
 button {
-    width: 200px;
+    width: 100px;
 }
 
 #container-element-three {
@@ -159,16 +159,28 @@ button {
 }
 
 .item-div {
-    background-color: greenyellow;
+    /*background-color: greenyellow;*/
     display: flex;
-    flex-basis: 200px;
+    flex-basis: 400px;
+    flex-direction: row;
+    justify-content: center;
+    flex-shrink: 0;
+
+}
+
+.vierkant-div{
+    background-color: honeydew;
+    width: 100px;
+    display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
 .item-div2 {
     display: flex;
-    flex-basis: 200px;
+    flex-basis: 400px;
     flex-direction: row;
     justify-content: center;
+    flex-shrink: 0;
+
 }
