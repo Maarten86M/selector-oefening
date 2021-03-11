@@ -109,14 +109,23 @@ div {
 .item-one {
     padding: 8px;
     background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .item-Two {
     padding: 8px;
     background-color: honeydew;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
 .item-Three {
     padding: 8px;
     background-color: orange;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
