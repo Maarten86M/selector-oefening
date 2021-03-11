@@ -28,7 +28,9 @@ article {
     flex-basis: 200px;
     height: 150px;
     padding: 8px;
-    order: 2;
+    order: 1;
+    flex-grow: 1;
+    flex-shrink: 0;
 }
 
 .item-element-two {
@@ -36,7 +38,9 @@ article {
     height: 280px;
     padding: 8px;
     background-color: darkorange;
-    order: 1;
+    order: 2;
+    flex-grow: 1;
+    flex-shrink: 0;
 }
 
 .item-element-three {
@@ -44,4 +48,6 @@ article {
     height: 120px;
     padding: 8px;
     order: 3;
+    flex-grow: 1;
+    flex-shrink: 0;
 }
