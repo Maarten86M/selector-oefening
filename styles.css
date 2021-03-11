@@ -47,7 +47,7 @@ article {
     flex-basis: 200px;
     height: 120px;
     padding: 8px;
-    order: 4;
+    order: 3;
     flex-grow: 1;
     flex-shrink: 0;
 }
@@ -57,7 +57,7 @@ article {
     height: 300px;
     padding: 8px;
     background-color: hsl(108, 100%, 53%);
-    order: 3;
+    order: 4;
     flex-grow: 1;
     flex-shrink: 0;
 }
