@@ -16,6 +16,7 @@ h3 {
     text-align: center;
 }
 
+/*Oefen opdracht nummer 1*/
 
 article {
     background-color: hsl(161, 100%, 70%);
@@ -86,4 +87,31 @@ article {
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
+}
+
+/*oefen opdracht nummer 2*/
+
+#container-element-two {
+    background-color: red;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.item-one {
+    padding: 8px;
+    background-color: greenyellow;
+}
+
+.item-Two {
+    padding: 8px;
+    background-color: honeydew;
+}
+
+.item-Three {
+    padding: 8px;
+    background-color: orange;
 }
