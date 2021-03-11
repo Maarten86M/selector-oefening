@@ -75,7 +75,7 @@ article {
     align-items: center;
 }
 
-.item-element-Four{
+.item-element-Four {
     flex-basis: 200px;
     height: 300px;
     padding: 8px;
@@ -90,6 +90,11 @@ article {
 }
 
 /*oefen opdracht nummer 2*/
+
+div {
+    border: 1px solid black;
+    /*margin: 10px;*/
+}
 
 #container-element-two {
     background-color: red;
