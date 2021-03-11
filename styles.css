@@ -163,12 +163,12 @@ button {
     display: flex;
     flex-basis: 400px;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-shrink: 0;
 
 }
 
-.vierkant-div{
+.vierkant-div {
     background-color: honeydew;
     width: 100px;
     display: flex;
@@ -180,7 +180,6 @@ button {
     display: flex;
     flex-basis: 400px;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-shrink: 0;
-
 }
