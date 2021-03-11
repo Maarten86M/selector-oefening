@@ -142,3 +142,15 @@ div {
     flex-grow: 1;
     flex-shrink: 0;
 }
+
+/*Eigen opdracht nummer 3*/
+
+#container-element-three{
+    background-color: red;
+    height: 100%;
+    padding: 20px;
+}
+
+.item-div{
+    background-color: greenyellow;
+}
