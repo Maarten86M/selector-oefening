@@ -27,7 +27,7 @@ article {
 
 #container-element {
     background-color: hsl(237, 62%, 54%);
-    height: 600px;
+    height: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -98,7 +98,7 @@ div {
 
 #container-element-two {
     background-color: red;
-    height: 100px;
+    height: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
