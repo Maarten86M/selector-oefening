@@ -144,13 +144,31 @@ div {
 }
 
 /*Eigen opdracht nummer 3*/
+button {
+    width: 200px;
+}
 
-#container-element-three{
+#container-element-three {
     background-color: red;
     height: 100%;
     padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
-.item-div{
+.item-div {
     background-color: greenyellow;
+    display: flex;
+    flex-basis: 200px;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.item-div2 {
+    display: flex;
+    flex-basis: 200px;
+    flex-direction: row;
+    justify-content: center;
 }
