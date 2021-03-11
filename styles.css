@@ -3,9 +3,19 @@
     margin: 0;
 }
 
+header {
+    height: 75px;
+    text-align: center;
+    padding: 10px;
+    background-color: hsl(5, 81%, 79%);
+    border: 2px solid black;
+    filter: drop-shadow(2px 3px 2px black);
+}
+
 h3 {
     text-align: center;
 }
+
 
 article {
     background-color: hsl(161, 100%, 70%);
