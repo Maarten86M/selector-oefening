@@ -31,6 +31,10 @@ article {
     order: 1;
     flex-grow: 1;
     flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .item-element-two {
@@ -41,6 +45,10 @@ article {
     order: 2;
     flex-grow: 1;
     flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .item-element-three {
@@ -50,6 +58,10 @@ article {
     order: 3;
     flex-grow: 1;
     flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
 }
 
 .item-element-Four{
