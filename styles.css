@@ -13,8 +13,13 @@ article {
 #container-element {
     background-color: hsl(237, 62%, 54%);
     height: 900px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .item-element {
+    width: 200px;
     padding: 8px;
 }
