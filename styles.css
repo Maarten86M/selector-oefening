@@ -12,11 +12,12 @@ article {
 
 #container-element {
     background-color: hsl(237, 62%, 54%);
-    height: 900px;
+    height: 600px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+    align-items: center;
 }
 
 .item-element-one {
