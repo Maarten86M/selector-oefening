@@ -14,3 +14,7 @@ article {
     background-color: hsl(237, 62%, 54%);
     height: 900px;
 }
+
+.item-element {
+    padding: 8px;
+}
