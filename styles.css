@@ -9,3 +9,8 @@ article {
     margin: 20px;
     padding: 20px;
 }
+
+#container-element {
+    background-color: hsl(237, 62%, 54%);
+    height: 900px;
+}
