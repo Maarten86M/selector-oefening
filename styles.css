@@ -183,3 +183,27 @@ button {
     justify-content: space-evenly;
     flex-shrink: 0;
 }
+
+/*Eigen opdracht nummer 4*/
+img {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
+
+#containe-element-four{
+    background-color: yellow;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.item-div-four{
+    background-color: honeydew;
+    height: 150px;
+    width: 200px;
+    position: relative;
+}
